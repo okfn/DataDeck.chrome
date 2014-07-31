@@ -16,9 +16,9 @@ with chrome://extensions url
 
 ![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot.png "screen_shot")
 
-![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot2.png "screen_shot2")
+![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot2.png "screen_shot3")
 
-![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot3.png "screen_shot3")
+![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot3.png "screen_shot2")
 
 
 # Some Developer Notes
