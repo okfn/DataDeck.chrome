@@ -1,0 +1,10 @@
+.datadeck-icon {
+  background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB94HHgwfL4mX4eAAAAAdaVRYdENvbW1lbnQAAAAAAENyZWF0ZWQgd2l0aCBHSU1QZC5lBwAAAR1JREFUOMulkr9qwzAQhz85Ghp3qcEIvHjN4rxNwWDjp+gT9BkydO3gJlP3rHkGew8EQjAY21vxn0Qd2iGuPSSuQKA73f1O950AHoE34AvQd+wt4AK8XDkvNyReruK2AJs7K/eKGb+HyUv+dQghUEoh5c9V0zSUZUnXdYPQUQHbtkmShDiOMU0TpRSO4+D7PofDYfQVH9e92batT6dTr98gCHRd11pKOWBhjClqrXv2er3meDwShuEg1rgVVpqmuK47XcDzPPb7/TQGURTpqqq0EGLAYHSMs9mM1WrFfD7HsiyUUiwWiwGb0THmec5yuURKidaatm0pioLz+TxgDQg5NoEsy27BIoDOAHb/+MmfEngHnoBn4OGO5B3w+g0zBJsPDAHTqgAAAABJRU5ErkJggg==) no-repeat 0 0;
+  display:inline-block;
+  width:16px;
+  height:16px;
+  text-indent:-999em;
+  margin-right:2px;
+  position:relative;
+  top:4px;
+  }
