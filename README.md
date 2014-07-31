@@ -14,11 +14,11 @@ with chrome://extensions url
 
 
 
-![Alt text](raw.githubusercontent.com/aliounedia/features/master/screen_shot.png "screen_shot")
+![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot.png "screen_shot")
 
-![Alt text](raw.githubusercontent.com/aliounedia/features/master/screen_shot2.png "screen_shot2")
+![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot2.png "screen_shot2")
 
-![Alt text](raw.githubusercontent.com/aliounedia/features/master/screen_shot3.png "screen_shot3")
+![Alt text](https://raw.githubusercontent.com/aliounedia/features/master/screen_shot3.png "screen_shot3")
 
 
 # Some Developer Notes
