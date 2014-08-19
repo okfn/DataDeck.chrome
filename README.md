@@ -3,14 +3,14 @@
 Provide Link to edit gist file in DataDeck . This is inspired By prose's extention 
 https://github.com/prose/browser-extensions Thank for Them for building great tools.
 Note that It is not yet in chrome's store but you can download it and install 
-with chrome://extensions url
+with chrome://extensions url.
 
 # Usage
 
 1. Download The extenstion from git 
 1. Install extension from local repository with chrome://extensions url
 2. Edit In DataDeck by clicking to Link (Edit In DataDeck) 
-3. Then you will be redirected to our dataDeck project 
+3. Then you will be redirected to the dataDeck project at explorer.okfnlabs.org 
 
 
 
@@ -28,6 +28,10 @@ with chrome://extensions url
 To Download type
 
     git clone https://github.com/okfn/DataDeck.chrome
+
+Builds the zip file for the chrome extension
+
+    ./make
 
 
 
